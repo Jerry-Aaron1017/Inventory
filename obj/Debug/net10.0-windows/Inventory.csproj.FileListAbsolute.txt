@@ -1,0 +1,16 @@
+c:\Users\Jerry Aaron\Inventory\bin\Debug\net10.0-windows\Inventory.exe
+C:\Users\Jerry Aaron\Inventory\bin\Debug\net10.0-windows\Inventory.deps.json
+C:\Users\Jerry Aaron\Inventory\bin\Debug\net10.0-windows\Inventory.runtimeconfig.json
+c:\Users\Jerry Aaron\Inventory\bin\Debug\net10.0-windows\Inventory.dll
+c:\Users\Jerry Aaron\Inventory\bin\Debug\net10.0-windows\Inventory.pdb
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.AssemblyInfoInputs.cache
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.AssemblyInfo.cs
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.csproj.CoreCompileInputs.cache
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.dll
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\refint\Inventory.dll
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.pdb
+C:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.genruntimeconfig.cache
+C:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\ref\Inventory.dll
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.frmAddProduct.resources
+c:\Users\Jerry Aaron\Inventory\obj\Debug\net10.0-windows\Inventory.csproj.GenerateResource.cache
